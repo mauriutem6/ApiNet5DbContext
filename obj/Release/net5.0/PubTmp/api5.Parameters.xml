@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="testing.localhost" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\code\\netcore\\12netcore5\\api5\\api5\\obj\\Release\\net5\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

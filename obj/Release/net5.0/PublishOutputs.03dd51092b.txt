@@ -1,0 +1,11 @@
+C:\code\netcore\12netcore5\api5\api5\obj\Release\net5.0\PubTmp\Out\api5.exe
+C:\code\netcore\12netcore5\api5\api5\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\code\netcore\12netcore5\api5\api5\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\code\netcore\12netcore5\api5\api5\obj\Release\net5.0\PubTmp\Out\api5.dll
+C:\code\netcore\12netcore5\api5\api5\obj\Release\net5.0\PubTmp\Out\api5.deps.json
+C:\code\netcore\12netcore5\api5\api5\obj\Release\net5.0\PubTmp\Out\api5.runtimeconfig.json
+C:\code\netcore\12netcore5\api5\api5\obj\Release\net5.0\PubTmp\Out\api5.pdb
+C:\code\netcore\12netcore5\api5\api5\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\code\netcore\12netcore5\api5\api5\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\code\netcore\12netcore5\api5\api5\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\code\netcore\12netcore5\api5\api5\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
